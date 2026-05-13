@@ -18,13 +18,13 @@ export default function Testimonials() {
     <section className="py-32 bg-[#0b0b0b]">
       <div className="max-w-7xl mx-auto px-6">
         <div className="text-center mb-20">
-          <p className="text-yellow-400 uppercase tracking-[5px] mb-4">
-            Testimonials
-          </p>
+        <p className="text-yellow-400 uppercase tracking-[5px] text-xl font-extrabold mb-4">
+  Testimonials
+</p>
 
-          <h2 className="text-5xl font-black">
-            What Clients Say
-          </h2>
+<h2 className="text-5xl md:text-6xl font-semibold text-white">
+  What Clients Say
+</h2>
         </div>
 
         <div className="grid md:grid-cols-3 gap-8">
@@ -38,7 +38,7 @@ export default function Testimonials() {
                 beginning to end.
               </p>
 
-              <h3 className="text-xl font-bold">
+              <h3 className="text-2xl font-extrabold text-amber-300 mb-2">
                 {item.name}
               </h3>
 
