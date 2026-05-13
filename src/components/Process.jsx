@@ -12,7 +12,7 @@ export default function Process() {
         <div className="text-center mb-20">
           <p className="uppercase tracking-[6px] text-yellow-500 text-lg font-bold mb-6">
   Luxury Real Estate & Interiors
-</p>>
+</p>
             Our Process
           </p>
 
