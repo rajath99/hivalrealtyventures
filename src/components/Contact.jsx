@@ -82,7 +82,7 @@ export default function Contact() {
             value={formData.name}
             onChange={handleChange}
             placeholder="Full Name"
-            className="w-full bg-[#151515] border border-white/10 p-5 rounded-2xl text-white placeholder:text-gray-400 focus:outline-none focus:border-yellow-400""
+            className="w-full bg-[#151515] border border-white/10 p-5 rounded-2xl text-white placeholder:text-gray-400 focus:outline-none focus:border-yellow-400"
           />
 
 
