@@ -40,7 +40,7 @@ export default function Hero() {
             className="max-w-3xl"
           >
 
-            <p className="uppercase tracking-[6px] text-[#C8A96B] mb-6 font-semibold">
+            <p className="uppercase tracking-[6px] text-[#D4AF37] text-xl font-extrabold mb-6">
 
               Luxury Real Estate & Interiors
 
@@ -54,7 +54,7 @@ export default function Hero() {
 
             </h1>
 
-            <p className="text-white/90 text-xl mt-8 leading-8 max-w-2xl">
+            <p className="text-white/90 text-2xl mt-8 leading-9 max-w-2xl">
 
               Premium architecture, luxury interiors, and elegant
               real estate experiences crafted for visionary living.
