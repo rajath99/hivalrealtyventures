@@ -10,7 +10,7 @@ export default function Process() {
     <section id="process" className="py-32">
       <div className="max-w-5xl mx-auto px-6">
         <div className="text-center mb-20">
-          <p <p className="uppercase tracking-[6px] text-yellow-500 text-lg font-bold mb-6">
+          <p className="uppercase tracking-[6px] text-yellow-500 text-lg font-bold mb-6">
   Luxury Real Estate & Interiors
 </p>>
             Our Process
