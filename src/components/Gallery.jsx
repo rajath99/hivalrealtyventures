@@ -25,13 +25,14 @@ export default function Gallery() {
           className="text-center mb-20"
         >
 
-          <p className="text-yellow-400 uppercase tracking-[5px] mb-4">
-            Featured Gallery
-          </p>
+         <p className="text-yellow-400 uppercase tracking-[5px] text-xl font-extrabold mb-4">
+  Featured Gallery
+</p>
 
-          <h2 className="text-5xl font-black">
-            Luxury Spaces & Developments
-          </h2>
+<h2 className="text-5xl md:text-6xl font-black text-white">
+  Luxury Spaces & Developments
+</h2>
+          
 
         </motion.div>
 
