@@ -92,7 +92,7 @@ export default function Contact() {
             value={formData.phone}
             onChange={handleChange}
             placeholder="Phone Number"
-            className="w-full bg-[#151515] border border-white/10 p-5 rounded-2xl text-white placeholder:text-gray-400 focus:outline-none focus:border-yellow-400""
+            className="w-full bg-[#151515] border border-white/10 p-5 rounded-2xl text-white placeholder:text-gray-400 focus:outline-none focus:border-yellow-400"
           />
 
           <input
@@ -101,7 +101,7 @@ export default function Contact() {
             value={formData.email}
             onChange={handleChange}
             placeholder="Email Address"
-            className="w-full bg-[#151515] border border-white/10 p-5 rounded-2xl text-white placeholder:text-gray-400 focus:outline-none focus:border-yellow-400""
+            className="w-full bg-[#151515] border border-white/10 p-5 rounded-2xl text-white placeholder:text-gray-400 focus:outline-none focus:border-yellow-400"
           />
 
           <textarea
@@ -110,7 +110,7 @@ export default function Contact() {
             value={formData.message}
             onChange={handleChange}
             placeholder="Message"
-            className="w-full bg-[#151515] border border-white/10 p-5 rounded-2xl text-white placeholder:text-gray-400 focus:outline-none focus:border-yellow-400""
+            className="w-full bg-[#151515] border border-white/10 p-5 rounded-2xl text-white placeholder:text-gray-400 focus:outline-none focus:border-yellow-400"
           />
 
           <button
