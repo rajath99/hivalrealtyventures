@@ -9,7 +9,7 @@ export default function About() {
           whileInView={{ opacity: 1, x: 0 }}
           transition={{ duration: 1 }}
         >
-          <p className="text-yellow-400 uppercase tracking-[5px] mb-5">
+          <p className="text-yellow-400 uppercase tracking-[6px] text-yellow-500 text-lg font-bold mb-6">
             Our Story
           </p>
 
@@ -19,12 +19,12 @@ export default function About() {
             Designed for Life
           </h2>
 
-          <p className="text-gray-400 leading-8 mb-6">
+          <p className="text-gray/90 text-2xl mt-8 leading-9 max-w-2xl">
             Hival Realty Ventures Pvt Ltd operates at the intersection
             of intelligent investment and luxury living.
           </p>
 
-          <p className="text-gray-400 leading-8">
+          <p className="text-gray/90 text-2xl mt-8 leading-9 max-w-2xl">
             From acquisition to architecture, every detail is handled
             with timeless sophistication.
           </p>
