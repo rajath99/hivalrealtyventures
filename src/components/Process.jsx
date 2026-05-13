@@ -9,16 +9,19 @@ export default function Process() {
   return (
     <section id="process" className="py-32">
       <div className="max-w-5xl mx-auto px-6">
+        
         <div className="text-center mb-20">
           <p className="uppercase tracking-[6px] text-yellow-500 text-lg font-bold mb-6">
-  Luxury Real Estate & Interiors
-</p>
-            Our Process
+            Luxury Real Estate & Interiors
           </p>
 
           <h2 className="text-5xl font-black">
-            Designed Around Excellence
+            Our Process
           </h2>
+
+          <p className="text-gray-400 mt-6 text-lg">
+            Designed Around Excellence
+          </p>
         </div>
 
         <div className="space-y-10">
@@ -44,6 +47,7 @@ export default function Process() {
             </div>
           ))}
         </div>
+
       </div>
     </section>
   );
